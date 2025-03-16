@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working as a Backend Developer<br>👯 There is no one I want to collaborate with right now<br>🤝 I'm trying to improve myself more in software<br>🌱 I am currently learning graphic design<br>💬 You can ask me questions about Software
+🔭 I am currently working as a FullStack Developer<br>👯 There is no one I want to collaborate with right now<br>🤝 I'm trying to improve myself more in software<br>🌱 I am currently learning graphic design<br>💬 You can ask me questions about Software
 
 
 ## 🌐 Socials:
